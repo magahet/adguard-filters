@@ -1,0 +1,4 @@
+||disney-plus.net^
+||disneyplus.com^
+||disney.playback.edge.bamgrid.com^
+||media.dssott.com^

@@ -1,0 +1,7 @@
+||youtube.com^
+||ytimg.com^
+||youtu.be^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||youtube-nocookie.com^
+||youtube

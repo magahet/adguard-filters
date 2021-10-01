@@ -1,0 +1,2 @@
+^(?!weixin|wx)([^.]+\.)?qq\.com$
+||qqzaixian.com^
