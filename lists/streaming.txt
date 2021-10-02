@@ -23,10 +23,13 @@
 ||amazon.com.mx^
 ||amazon.co.uk^
 ||createspace.com^
-||aws||disney-plus.net^
+||aws
+||disney-plus.net^
 ||disneyplus.com^
 ||disney.playback.edge.bamgrid.com^
-||media.dssott.com^||hulu.com^||nflxext.com^
+||media.dssott.com^
+||hulu.com^
+||nflxext.com^
 ||netflix.com^
 ||nflximg.net^
 ||nflxvideo.net^
