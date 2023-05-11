@@ -1,2 +1,2 @@
 ! Block everything.
-/.*/
+/.*/$ctag=~user_admin
